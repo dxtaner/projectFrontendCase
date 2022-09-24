@@ -1,7 +1,7 @@
 
 ## Ekran Görüntüleri
 <br>
-![image](https://user-images.githubusercontent.com/44675799/192091415-ee0520e0-98d3-45d1-ac04-799f034e841c.png)
+![image](https://user-images.githubusercontent.com/44675799/192091983-52ad22fa-0862-421a-a548-293aefc8ac9d.png)
 <br>
 ![image](https://user-images.githubusercontent.com/44675799/192091440-3c695e83-7b93-4f23-a195-adc5aa35ca64.png)
 <br>
